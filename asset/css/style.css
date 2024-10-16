@@ -201,7 +201,7 @@
  border: 2px solid rgb(241, 178, 178);
 }
 .price:hover{
-  background-color: bisque;
+  background-color: pink;
   transform: scale(1.1);
   transition: all ease-in-out 0.3s;
 }
@@ -243,7 +243,7 @@ min-height: 90vh;
 
 /* icon font color=#8c8c8c */
 footer{
-  background-color: #db1717;
+  background-color: pink;
   background-image: url('https://preview.colorlib.com/theme/kayelux/images/xbg_2.jpg.pagespeed.ic.k2FHEGn_FG.webp');
   color: black;
   /* background-color: rgb(255, 255, 255); */
